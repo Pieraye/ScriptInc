@@ -1,3 +1,559 @@
---[[ Script Encrypted by Wakka || Got Any Problem? Contact Wakka on Discord (.wkka) || DO NOT SHARE THIS FILE BY ANY MEAN ]]--
 
-load(string.char(table.unpack({27,76,117,97,84,0,25,147,13,10,26,10,4,8,8,120,86,0,0,0,0,0,0,0,0,0,0,0,40,119,64,1,128,128,128,0,1,54,5,134,81,0,0,0,11,0,0,0,139,0,0,1,142,0,1,2,11,1,0,3,14,1,2,4,147,129,0,101,82,1,0,0,1,2,13,128,129,130,37,128,1,3,58,128,129,3,48,128,1,132,41,128,129,132,255,127,1,5,12,128,129,5,73,128,1,6,6,128,129,134,4,128,1,135,12,128,129,135,4,128,1,136,1,128,129,136,3,128,1,137,3,128,129,137,59,128,1,138,42,128,129,138,255,127,1,139,255,127,129,139,255,127,1,140,255,127,129,140,255,127,1,141,255,127,129,141,255,127,1,142,255,127,129,142,255,127,1,143,255,127,129,143,255,127,1,144,19,128,129,16,59,128,1,145,31,128,129,17,0,128,1,146,63,128,129,146,63,128,1,147,63,128,129,147,255,127,1,20,0,128,129,148,26,128,1,21,0,128,129,149,65,128,1,22,40,128,129,150,255,127,1,151,255,127,129,151,255,127,1,24,5,128,129,152,255,127,1,153,255,127,129,153,255,127,1,26,69,128,129,154,255,127,206,1,50,0,1,130,255,127,129,2,0,128,1,131,70,128,129,131,255,127,1,4,0,128,129,132,0,128,1,5,5,128,129,5,0,128,1,134,255,127,129,6,1,128,1,135,6,128,129,7,0,128,1,136,0,128,129,136,1,128,1,9,73,128,129,9,0,128,1,138,255,127,129,138,57,128,1,139,40,128,129,139,255,127,1,140,255,127,129,140,255,127,1,13,0,128,129,141,0,128,1,14,6,128,129,142,63,128,1,15,64,128,129,143,64,128,1,16,18,128,129,144,63,128,1,17,0,128,129,17,1,128,1,146,28,128,129,146,63,128,1,19,64,128,129,19,1,128,1,148,23,128,129,148,63,128,1,21,0,128,129,149,65,128,1,22,20,128,129,150,63,128,1,23,64,128,129,151,65,128,1,24,127,128,129,24,63,128,1,25,0,128,129,25,2,128,1,154,5,128,129,154,63,128,206,1,50,50,1,2,64,128,129,2,2,128,1,3,36,128,129,131,63,128,1,4,0,128,129,132,2,128,1,133,2,128,129,133,63,128,1,6,64,128,129,134,66,128,1,135,1,128,129,135,63,128,1,8,0,128,129,8,67,128,1,137,5,128,129,137,63,128,1,10,64,128,129,10,67,128,1,139,1,128,129,139,63,128,1,12,0,128,129,140,67,128,1,13,0,128,129,141,63,128,1,14,64,128,129,142,67,128,1,15,1,128,129,143,63,128,1,16,0,128,129,16,68,128,1,17,1,128,129,145,63,128,1,18,64,128,129,18,68,128,1,19,29,128,129,147,63,128,1,20,0,128,129,148,68,128,1,149,20,128,129,149,63,128,1,22,64,128,129,150,68,128,1,23,127,128,129,23,63,128,1,24,0,128,129,24,69,128,1,25,127,128,129,25,63,128,1,26,64,128,129,26,69,128,206,1,50,100,1,2,127,128,129,2,63,128,1,3,0,128,129,131,69,128,1,4,127,128,129,4,63,128,1,5,64,128,129,133,69,128,1,6,127,128,129,6,63,128,1,7,0,128,129,7,70,128,1,8,127,128,129,8,63,128,1,9,64,128,129,9,70,128,1,10,127,128,129,10,63,128,1,11,0,128,129,139,70,128,1,12,127,128,129,12,63,128,1,13,64,128,129,141,70,128,1,14,127,128,129,14,63,128,1,15,0,128,129,15,71,128,1,16,127,128,129,16,63,128,1,17,64,128,129,17,71,128,1,18,127,128,129,18,63,128,1,19,0,128,129,147,71,128,1,20,9,128,129,148,63,128,1,21,64,128,129,149,7,128,1,22,29,128,129,150,63,128,1,23,0,128,129,23,72,128,1,24,15,128,129,152,63,128,1,25,64,128,129,25,8,128,1,154,255,127,129,154,63,128,206,1,50,150,1,2,0,128,129,130,72,128,1,3,31,128,129,131,63,128,1,4,64,128,129,132,72,128,1,5,31,128,129,133,63,128,1,6,0,128,129,6,73,128,1,7,31,128,129,135,63,128,1,8,64,128,129,8,73,128,1,9,127,128,129,9,63,128,1,10,0,128,129,138,9,128,1,139,255,127,129,139,63,128,1,12,64,128,129,140,73,128,1,141,255,127,129,141,63,128,1,14,0,128,129,14,10,128,1,143,32,128,129,143,63,128,1,16,64,128,129,16,10,128,1,145,19,128,129,145,63,128,1,18,0,128,129,146,74,128,1,19,127,128,129,19,63,128,1,20,64,128,129,148,74,128,1,21,127,128,129,21,63,128,1,22,0,128,129,22,75,128,1,23,127,128,129,23,63,128,1,24,64,128,129,24,11,128,1,25,2,128,129,153,63,128,1,26,0,128,129,154,75,128,206,1,50,200,1,2,127,128,129,2,63,128,1,3,64,128,129,131,75,128,1,4,127,128,129,4,63,128,1,5,0,128,129,5,76,128,1,6,127,128,129,6,63,128,1,7,64,128,129,7,12,128,1,8,32,128,129,136,63,128,1,9,0,128,129,137,76,128,1,10,31,128,129,138,63,128,1,11,64,128,129,139,76,128,1,12,127,128,129,12,63,128,1,141,102,128,129,13,0,128,1,142,24,128,129,142,255,127,1,15,0,128,129,143,64,128,1,16,127,128,129,16,63,128,1,17,64,128,129,145,64,128,1,18,16,128,129,146,63,128,1,19,0,128,129,19,65,128,1,20,127,128,129,20,63,128,1,21,64,128,129,21,65,128,1,150,255,127,129,150,63,128,1,23,0,128,129,151,1,128,1,152,255,127,129,152,63,128,1,25,64,128,129,153,65,128,1,154,16,128,129,154,63,128,206,1,50,250,1,2,0,128,129,2,66,128,1,3,127,128,129,3,63,128,1,4,64,128,129,4,2,128,1,133,255,127,129,133,63,128,1,6,0,128,129,134,2,128,1,135,255,127,129,135,63,128,1,8,64,128,129,136,66,128,1,137,31,128,129,137,63,128,1,10,0,128,129,10,67,128,1,11,0,128,129,139,63,128,1,12,64,128,129,12,3,128,1,141,34,128,129,141,63,128,1,14,0,128,129,142,67,128,1,15,18,128,129,143,63,128,1,16,64,128,129,144,3,128,1,17,27,128,129,145,63,128,1,18,0,128,129,18,4,128,1,19,25,128,129,147,63,128,1,20,64,128,129,20,68,128,1,21,20,128,129,149,63,128,1,22,0,128,129,150,4,128,1,23,27,128,129,151,63,128,1,24,64,128,129,152,4,128,1,25,16,128,129,153,63,128,1,26,0,128,129,26,5,128,206,129,50,44,210,0,0,0,1,2,27,128,129,130,63,128,1,3,64,128,129,3,69,128,1,132,26,128,129,132,63,128,1,5,0,128,129,133,5,128,1,6,28,128,129,134,63,128,1,7,64,128,129,135,5,128,1,8,27,128,129,136,63,128,1,9,0,128,129,9,70,128,1,10,26,128,129,138,63,128,1,11,64,128,129,11,6,128,1,140,24,128,129,140,63,128,1,13,0,128,129,141,70,128,1,14,0,128,129,142,63,128,1,15,64,128,129,143,70,128,1,16,39,128,129,144,63,128,1,17,0,128,129,17,71,128,1,18,23,128,129,146,63,128,1,19,64,128,129,19,7,128,1,20,29,128,129,148,63,128,1,21,0,128,129,149,7,128,1,22,22,128,129,150,63,128,1,23,64,128,129,151,71,128,1,24,7,128,129,152,63,128,1,25,0,128,129,25,72,128,1,26,23,128,129,154,63,128,206,129,50,94,210,0,0,0,1,2,64,128,129,2,8,128,1,3,24,128,129,131,63,128,1,4,0,128,129,132,72,128,1,133,15,128,129,133,63,128,1,6,64,128,129,134,8,128,1,7,19,128,129,135,63,128,1,8,0,128,129,8,9,128,1,9,19,128,129,137,63,128,1,10,64,128,129,10,9,128,1,139,18,128,129,139,63,128,1,12,0,128,129,140,73,128,1,13,7,128,129,141,63,128,1,14,64,128,129,142,73,128,1,15,23,128,129,143,63,128,1,16,0,128,129,16,10,128,1,17,29,128,129,145,63,128,1,18,64,128,129,18,10,128,1,147,22,128,129,147,63,128,1,20,0,128,129,148,74,128,1,21,7,128,129,149,63,128,1,22,64,128,129,150,74,128,1,23,23,128,129,151,63,128,1,24,0,128,129,24,75,128,1,153,11,128,129,153,63,128,1,26,64,128,129,26,11,128,206,129,50,144,210,0,0,0,1,130,17,128,129,130,63,128,1,3,0,128,129,131,75,128,1,4,28,128,129,132,63,128,1,5,64,128,129,133,11,128,1,6,28,128,129,134,63,128,1,7,0,128,129,7,76,128,1,8,7,128,129,136,63,128,1,9,64,128,129,9,12,128,1,10,21,128,129,138,63,128,1,11,0,128,129,139,12,128,1,12,27,128,129,140,63,128,1,13,64,128,129,141,76,128,1,142,27,128,129,142,63,128,1,143,102,128,129,15,0,128,1,144,24,128,129,144,24,128,1,17,0,128,129,145,0,128,1,18,26,128,129,146,63,128,1,19,64,128,129,147,0,128,1,148,25,128,129,148,63,128,1,21,0,128,129,21,65,128,1,150,26,128,129,150,63,128,1,23,64,128,129,23,1,128,1,24,25,128,129,152,63,128,1,25,0,128,129,153,1,128,1,154,7,128,129,154,63,128,206,129,50,194,210,0,0,0,1,2,64,128,129,130,1,128,1,131,7,128,129,131,63,128,1,4,0,128,129,4,2,128,1,133,7,128,129,133,63,128,1,6,64,128,129,6,2,128,1,135,31,128,129,135,63,128,1,8,0,128,129,136,2,128,1,137,255,127,129,137,63,128,1,10,64,128,129,138,66,128,1,11,127,128,129,11,63,128,1,12,0,128,129,12,67,128,1,13,127,128,129,13,63,128,1,14,64,128,129,14,67,128,1,15,31,128,129,143,63,128,1,16,0,128,129,144,67,128,1,17,31,128,129,145,63,128,1,18,64,128,129,146,67,128,1,19,31,128,129,147,63,128,1,20,0,128,129,20,68,128,1,21,31,128,129,149,63,128,1,22,64,128,129,22,68,128,1,23,31,128,129,151,63,128,1,152,102,128,129,24,0,128,1,153,7,128,129,153,49,128,1,154,33,128,129,26,0,128,206,129,50,244,210,0,0,0,1,130,0,128,129,130,255,127,1,131,97,128,129,131,255,127,1,132,255,127,129,132,255,127,1,133,33,128,129,133,255,127,1,134,255,127,129,134,0,128,1,135,33,128,129,135,255,127,1,8,0,128,129,8,0,128,1,137,34,128,129,137,255,127,1,10,0,128,129,10,0,128,1,11,66,128,129,139,1,128,1,12,66,128,129,140,53,128,1,13,55,128,129,13,48,128,1,142,49,128,129,142,1,128,1,15,67,128,129,15,57,128,1,144,57,128,129,144,56,128,1,17,52,128,129,145,54,128,1,18,51,128,129,146,1,128,1,19,66,128,129,19,49,128,1,148,51,128,129,20,48,128,1,149,56,128,129,149,1,128,1,150,66,128,129,150,57,128,1,23,48,128,129,151,48,128,1,152,53,128,129,24,50,128,1,153,1,128,129,25,67,128,1,26,58,128,129,154,54,128,206,129,50,38,82,1,0,0,1,130,55,128,129,2,48,128,1,3,49,128,129,3,53,128,1,4,64,128,129,4,0,128,1,133,255,127,129,133,255,127,1,134,63,128,129,134,63,128,1,135,63,128,129,135,63,128,1,136,63,128,206,129,13,88,82,1,0,0,68,1,2,0,196,0,0,0,68,0,0,2,68,0,1,1,70,0,1,1,133,4,133,108,111,97,100,4,135,115,116,114,105,110,103,4,133,99,104,97,114,4,134,116,97,98,108,101,4,135,117,110,112,97,99,107,129,1,0,0,128,128,128,128,128})))()
+
+worldName = "" -- Don't Touch --
+nowEnable = true -- Don't Touch --
+isEnable = false -- Don't Touch --
+ghostState = false -- Don't Touch --
+wreckWrench = true -- Don't Touch --
+changeRemote = false -- Don't Touch --
+magplantX = magplantX - 1 -- Don't Touch --
+player = GetLocal().name -- Don't Touch --
+currentWorld = GetWorld().name -- Don't Touch --
+
+world = "island"        -- Dont Touch!!!
+if world == "island" then
+ex = 199
+ey = y1
+
+function path(x, y, state)
+SendPacketRaw(false, {state = state,
+px = x,
+py = y,
+x = x*32,
+y = y*32})
+end
+
+function h2(x, y, id)
+SendPacketRaw(false,{type = 3,
+value = id,
+px = x,
+py = y,
+x = x*32,
+y= y*32})
+end
+
+AddHook("onvariant", "mommy", function(var)
+    if var[0] == "OnSDBroadcast" then
+        return true
+    end
+end)
+
+if worldName == "" or worldName == nil then
+    worldName = string.upper(GetWorld().name)
+end
+if GetWorld().name ~= string.upper(worldName) then
+    for i = 1, 1 do
+        Sleep(4500)
+        RequestJoinWorld(worldName)
+        Sleep(delayRecon)
+    end
+end
+
+AddHook("onvariant", "mommy", function(var)
+    if var[0] == "OnSDBroadcast" then
+        return true
+    end
+    if var[0] == "OnDialogRequest" and var[1]:find("MAGPLANT 5000") then
+        return true
+    end
+    if var[0] == "OnTalkBubble" and var[2]:match("The MAGPLANT 5000 is empty.") then
+        changeRemote = true
+        return true
+    end
+    if var[0] == "OnTalkBubble" and var[2]:match("Collected") then
+        return true
+    end
+    if var[0] == "OnDialogRequest" and var[1]:find("add_player_info") then
+        if var[1]:find("|290|") then
+            ghostState = true
+        else
+            ghostState = false
+        end
+        return true
+    end
+    return false
+end)
+
+local function place(id, x, y)
+    if GetWorld() == nil then
+        return
+    end
+    pkt = {}
+    pkt.type = 3
+    pkt.value = id
+    pkt.px = math.floor(GetLocal().pos.x / 32 + x)
+    pkt.py = math.floor(GetLocal().pos.y / 32 + y)
+    pkt.x = GetLocal().pos.x
+    pkt.y = GetLocal().pos.y
+    SendPacketRaw(false, pkt)
+    Sleep(40)
+end
+
+local function punch(x, y)
+    if GetWorld() == nil then
+        return
+    end
+    pkt = {}
+    pkt.type = 3
+    pkt.value = 18
+    pkt.x = GetLocal().pos.x
+    pkt.y = GetLocal().pos.y
+    pkt.px = math.floor(GetLocal().pos.x / 32 + x)
+    pkt.py = math.floor(GetLocal().pos.y / 32 + y)
+    SendPacketRaw(false, pkt)
+    Sleep(40)
+end
+
+local function wrench(x, y)
+    if GetWorld() == nil then
+        return
+    end
+    pkt = {}
+    pkt.type = 3
+    pkt.value = 32
+    pkt.px = math.floor(GetLocal().pos.x / 32 + x)
+    pkt.py = math.floor(GetLocal().pos.y / 32 + y)
+    pkt.x = GetLocal().pos.x
+    pkt.y = GetLocal().pos.y
+    SendPacketRaw(false, pkt)
+end
+
+local function hold()
+    if GetWorld() == nil then
+        return
+    end
+        local pkt = {}
+        pkt.type = 0
+        pkt.state = 16779296
+        SendPacketRaw(pkt)
+        Sleep(90)
+end
+
+local function isReady(tile)
+    if GetWorld() == nil then
+        return
+    end
+    if tile and tile.extra and tile.extra.progress and tile.extra.progress == 1.0 then
+        return true
+    end
+    return false
+end
+
+local function findItem(id)
+    count = 0
+    for _, inv in pairs(GetInventory()) do
+        if inv.id == id then
+            count = count + inv.amount
+        end
+    end
+    return count
+end
+
+local function FormatNumber(num)
+    num = math.floor(num + 0.5)
+    local formatted = tostring(num)
+    local k = 3
+    while k < #formatted do
+        formatted = formatted:sub(1, #formatted - k) .. "," .. formatted:sub(#formatted - k + 1)
+        k = k + 4
+    end
+    return formatted
+end
+
+local function removeColorAndSymbols(str)
+    cleanedStr = string.gsub(str, "`(%S)", '')
+    cleanedStr = string.gsub(cleanedStr, "`{2}|(~{2})", '')
+    return cleanedStr
+end
+if GetWorld() == nil then
+    username = removeColorAndSymbols(player)
+else
+    username = removeColorAndSymbols(GetLocal().name)
+end
+
+--[START WHEN START SCRIPT]-------
+
+local function warnText(text)
+    text = text
+    packet = {}
+    packet[0] = "OnAddNotification"
+    packet[1] = "interface/atomic_button.rttex"
+    packet[2] = text
+    packet[3] = "audio/hub_open.wav"
+    packet[4] = 0
+    SendVariantList(packet)
+    return true
+end
+
+local function countReady()
+    readyTree = 0
+    for _, tile in pairs(GetTiles()) do
+        if tile.fg == itemID then
+            if isReady(GetTile(tile.x, tile.y)) then
+                readyTree = readyTree + 1
+            end
+        end
+    end
+    return readyTree
+end
+
+local function countTree()
+    if GetWorld() == nil then
+        return
+    end
+
+    countTrees = 0
+    for _, tile in pairs(GetTiles()) do
+        if GetTile(tile.x, tile.y).fg == itemID and not isReady(GetTile(tile.x, tile.y)) then
+            countTrees = countTrees + 1
+        end
+    end
+    return countTrees
+end
+
+local function cheatSetup()
+    if GetWorld() == nil then
+        return
+    end
+
+    if countTree() >= 1 then
+        for _, tile in pairs(GetTiles()) do
+            if tile.fg == itemID and GetTile(tile.x, tile.y).collidable then
+                FindPath(tile.x, tile.y, 60)
+                if nowEnable then
+                    Sleep(1000)
+                    SendPacket(2, "action|dialog_return\ndialog_name|cheats\ncheck_autoplace|1\ncheck_gems|1")
+                    isEnable = true
+                    Sleep(1000)
+                end
+                if isEnable then
+                    break
+                end
+            end
+        end
+        nowEnable = false
+    end
+
+    if countTree() == 0 then
+        for _, tile in pairs(GetTiles()) do
+            if tile.fg == 0 and GetTile(tile.x, tile.y).collidable then
+                FindPath(tile.x, tile.y, 60)
+                place(5640, 0, 0)
+                if nowEnable then
+                    Sleep(1000)
+                    SendPacket(2, "action|dialog_return\ndialog_name|cheats\ncheck_autoplace|1\ncheck_gems|1")
+                    isEnable = true
+                    Sleep(1000)
+                end
+                if isEnable then
+                    break
+                end
+            end
+        end
+        nowEnable = false
+    end
+end
+
+local function takeMagplant()
+    if findItem(5640) == 0 or changeRemote then
+        FindPath(magplantX, magplantY - 1, 60)
+        Sleep(100)
+        wrench(0, 1)
+        Sleep(100)
+        SendPacket(2, "action|dialog_return\ndialog_name|magplant_edit\nx|".. magplantX .."|\ny|".. magplantY .."|\nbuttonClicked|getRemote")
+        Sleep(1000)
+    end
+    if wreckWrench then
+        cheatSetup()
+    end
+    wreckWrench = false
+    changeRemote = false
+end
+
+local function remoteCheck()
+    if GetWorld() == nil then
+        return
+    else
+        if findItem(5640) == 0 or findItem(5640) < 0 then
+            Sleep(1000)
+            takeMagplant()
+            Sleep(1000)
+        end
+    end
+end
+
+local function worldNot()
+    if GetWorld().name ~= (worldName:upper()) then
+        LogToConsole("`4Disconnected")
+        for i = 1, 1 do
+            Sleep(5000)
+            RequestJoinWorld(worldName)
+            Sleep(5000)
+            cheatSetup()
+        end
+        Sleep(delayRecon)
+        LogToConsole("`2Reconnected")
+    else
+        Sleep(delayRecon)
+        remoteCheck()
+    end
+end
+
+local function reconnectPlayer()
+    if GetWorld() == nil then
+        for i = 1, 1 do
+            Sleep(5000)
+            RequestJoinWorld(worldName)
+            Sleep(5000)
+            cheatSetup()
+            Sleep(1000)
+            nowEnable = true
+            isEnable = false
+        end
+        Sleep(1000)
+        remoteCheck()
+                Sleep(1000)
+        LogToConsole("`2Reconnected")
+    else
+        if GetWorld().name == (worldName:upper()) then
+            Sleep(1000)
+            remoteCheck()
+            Sleep(1000)
+        end
+    end
+end
+
+local function wrenchMe()
+    if GetWorld() == nil then
+        Sleep(1000)
+        reconnectPlayer()
+    else
+        SendPacket(2, "action|wrench\n|netid|".. GetLocal().netid)
+    end
+end
+
+--[ HARVESTING ]-------------------------------------------------------------------
+
+function harvest()
+           if autoHarvest then
+                for y = ey, 0, -1 do
+                    for x = 0, ex, 1 do
+                        if isReady(GetTile(x,y)) then
+                            path(x, y, 16779296)
+                            Sleep(delayHarvest)
+                            h2(x, y, 18)
+                            Sleep(delayHarvest)
+                        end
+                        if GetWorld() == nil then
+                            Sleep(delayRecon)
+                            reconnectPlayer()
+                            break
+                        end
+                    end
+                end
+    end
+end
+
+--[ CHECK MISS HARVEST ]-----------------------------------------------------------
+
+function htantimiss()
+        harvest()
+        Sleep(1100)
+        previousGem = GetPlayerInfo().gems
+end
+
+--[ PLANTING ]---------------------------------------------------------------------
+
+local function plant()
+    if autoPlant then
+        if countTree() < amtseed then
+              for y = ey , 0, -1 do
+               for x = 0, ex,10 do
+                    if GetWorld() == nil then
+                        return
+                    else
+                        if GetTile(x, y).fg == 0  then
+                            path(x, y, 32)
+                            Sleep(delayPlant)
+                            h2(x, y, 5640)
+                            Sleep(delayPlant)
+                        end
+                    end
+                    if GetWorld() == nil then
+                        Sleep(delayRecon)
+                        reconnectPlayer()
+                        break
+                    end
+                    if changeRemote then
+                        break
+                    end
+                end
+                if GetWorld() == nil then
+                    Sleep(delayRecon)
+                    reconnectPlayer()
+                    break
+                end
+                if changeRemote then
+                    break
+                 end
+             end
+         end
+     end
+ end
+
+-- [ CHECK MISS PLANT ]------------------------------------------------------------
+
+local function plantantimiss()
+    if autoPlant then
+        if countTree() < amtseed then
+            for x = ex, 0, -10 do
+                for y = ey , 0 do
+                    if GetWorld() == nil then
+                        return
+                    else
+                        if GetTile(x, y).fg == 0  then
+                            path(x, y, 48)
+                            Sleep(delayPlant)
+                            h2(x, y, 5640)
+                            Sleep(delayPlant)
+                        end
+                    end
+                    if GetWorld() == nil then
+                        Sleep(delayRecon)
+                        reconnectPlayer()
+                        break
+                    end
+                    if changeRemote then
+                        break
+                    end
+                end
+                if GetWorld() == nil then
+                    Sleep(delayRecon)
+                    reconnectPlayer()
+                    break
+                end
+                if changeRemote then
+                    break
+                end
+             end
+         end
+     end
+end
+
+-- [ FUNCTION UWS ]-----------------------------------------------------------------
+
+function uws()
+    if autoSpray then
+      if countTree() >= amtseed then
+         Sleep(5000)
+          SendPacket(2, "action|dialog_return\ndialog_name|ultraworldspray")
+        end
+    end
+end
+
+--[ CHEAT MENU / ABILITY ] ---------------------------------------------------------
+
+ChangeValue("[C] Modfly", true)
+
+function dontdropgems()
+    SendPacket(2, "action|dialog_return\ndialog_name|cheats\ncheck_gems|1\n")
+    Sleep(100)
+end
+dontdropgems()
+
+--[ WHILE START CICLE ]-------------------------------------------------------------
+    while true do
+    wrenchMe()
+    Sleep(1000)
+    if not ghostState then
+        Sleep(1000)
+        for i = 1, 1 do
+            if autoGhost then
+                SendPacket(2, "action|input\ntext|/ghost")
+                break
+            end
+        end
+    end
+    if findItem(5640) == 0 or findItem(5640) < 0 then
+        Sleep(1000)
+        takeMagplant()
+    end
+    remoteCheck()
+    harvest()
+    htantimiss()
+    Sleep(1000)
+    plant()
+
+     if GetWorld() == nil then
+        LogToConsole("`4Disconnected")
+        Sleep(delayRecon)
+        reconnectPlayer()
+        Sleep(delayRecon)
+    end
+
+    if GetWorld().name == (worldName:upper()) then
+        Sleep(delayRecon)
+    else
+        LogToConsole("`4Disconnected")
+        Sleep(delayRecon)
+        worldNot()
+        Sleep(delayRecon)
+    end
+
+    if changeRemote then
+        for i = 1, 1 do
+            magplantX = magplantX + 1
+        end
+        Sleep(100)
+        takeMagplant()
+        plant()
+    end
+
+    if findItem(5640) == 0 or findItem(5640) < 0 then
+        Sleep(100)
+        takeMagplant()
+        plant()
+    end
+
+plantantimiss()
+
+     if GetWorld() == nil then
+        LogToConsole("`4Disconnected")
+        Sleep(delayRecon)
+        reconnectPlayer()
+        Sleep(delayRecon)
+    end
+
+    if GetWorld().name == (worldName:upper()) then
+        Sleep(delayRecon)
+    else
+        LogToConsole("`4Disconnected")
+        Sleep(delayRecon)
+        worldNot()
+        Sleep(delayRecon)
+    end
+
+    if changeRemote then
+        for i = 1, 1 do
+            magplantX = magplantX + 1
+        end
+        Sleep(100)
+        takeMagplant()
+        plantantimiss()
+    end
+
+    if findItem(5640) == 0 or findItem(5640) < 0 then
+        Sleep(100)
+        takeMagplant()
+        plantantimiss()
+    end
+
+    Sleep(1000)
+    uws()
+    Sleep(100)
+    plantantimiss()
+    Sleep(2000)
+    uws()
+    Sleep(delayUWS)
+end
+end
